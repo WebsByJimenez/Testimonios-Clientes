@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "María Quiroga",
+    "cargo": "Compradora verificada",
+    "estrellas": 5,
+    "fotoUrl": "./img/foto1.jpg",
+    "texto": "Una experiencia de compra de diez: rápido, seguro y con un soporte impecable. Llevaba semanas buscando las componentes para renovar mi equipo de trabajo y tenía bastantes dudas sobre la compatibilidad entre la placa base y la memoria RAM que quería elegir."
+  },
+  {
+    "id": 2,
+    "nombre": "Juan Ramírez",
+    "cargo": "Entusiasta del hardware",
+    "estrellas": 5,
+    "fotoUrl": "./img/foto2.jpg",
+    "texto": "La verdad es que no puedo estar más contento. Compré un kit completo de refrigeración líquida y una fuente de alimentación modular para actualizar mi ordenador. Me daba bastante miedo equivocarme con las medidas de la caja, pero el pedido llegó en menos de 24 horas, empaquetado al detalle y funcionando de maravilla desde el primer minuto. Repetiré seguro."
+  },
+  {
+    "id": 3,
+    "nombre": "Rosalia Duster",
+    "cargo": "Diseñadora gráfica",
+    "estrellas": 5,
+    "fotoUrl": "./img/foto3.jpg",
+    "texto": "Le compré un portátil y varios accesorios a mi hermana para sus estudios de diseño y el resultado ha sido de diez. Tenía dudas sobre si la tarjeta gráfica sería suficiente para los programas que usa, pero la atención por chat fue súper atenta y rápida. El envío llegó puntual para su cumpleaños y ella está encantada con el rendimiento."
+  }
+]
