@@ -5,7 +5,7 @@ Un componente web moderno, interactivo y accesible para mostrar testimonios de c
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://WebsByJimenez.github.io/Testimonios-Clientes/)
 
 <p align="center">
-  <img src="img/testimonios.jpg" alt="Vista previa del componente de testimonios" width="300">
+  <img src="img/testimonios.jpg" alt="Vista previa del componente de testimonios" width="500">
 </p>
 
 ## 🌐 Demo En Vivo
