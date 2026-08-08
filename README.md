@@ -5,13 +5,10 @@ Un componente web moderno, interactivo y accesible para mostrar testimonios de c
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://WebsByJimenez.github.io/Testimonios-Clientes/)
 
 <p align="center">
-  <img src="img/testimonios.jpg" alt="Vista previa del componente de testimonios" width="500">
+  <img src="img/testimonios.jpg" alt="Vista previa del componente de testimonios" width="400">
 </p>
 
 ## 🌐 Demo En Vivo
-
-Puedes probar la aplicación en tiempo real ingresando al siguiente enlace:
-👉 [Ver App en GitHub Pages](https://WebsByJimenez.github.io/Testimonios-Clientes/)
 
 ## 🚀 Características Principales
 
@@ -48,12 +45,14 @@ Puedes probar la aplicación en tiempo real ingresando al siguiente enlace:
 └── README.md             # Documentación del proyecto
 ```
 
-📝 Licencia
-Este proyecto es de código abierto y está disponible bajo la licencia MIT.
+## 🚀 Instalación y Uso Local
 
-🚀 Instalación y Uso Local
 No requiere la instalación de dependencias ni servidores externos. Únicamente clona el repositorio u obtén los archivos y abre index.html en cualquier navegador web moderno.
+
+## 📝 Licencia
+
+Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ## 👤 Autor
 
-Desarrollado con 💻 por **WebsByJimenez**.
+Desarrollado por WebsByJiménez.
