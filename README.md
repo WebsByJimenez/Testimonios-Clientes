@@ -2,9 +2,18 @@
 
 Un componente web moderno, interactivo y accesible para mostrar testimonios de clientes de una tienda online de tecnología. Diseñado con HTML5 semántico, CSS3 moderno y JavaScript asíncrono (ES6+).
 
----
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://WebsByJimenez.github.io/Testimonios-Clientes/)
 
-## 🚀 Características Principal
+<p align="center">
+  <img src="img/testimonios.jpg" alt="Vista previa del componente de testimonios" width="300">
+</p>
+
+## 🌐 Demo En Vivo
+
+Puedes probar la aplicación en tiempo real ingresando al siguiente enlace:
+👉 [Ver App en GitHub Pages](https://WebsByJimenez.github.io/Testimonios-Clientes/)
+
+## 🚀 Características Principales
 
 - **Carga de Datos Asíncrona:** consume los datos de los testimonios dinámicamente desde un archivo `JSON` mediante `fetch()`.
 - **Navegación Interactiva:** controles de navegación manual mediante flechas de desplazamiento e indicadores de posición (_dots_).
@@ -32,17 +41,19 @@ Un componente web moderno, interactivo y accesible para mostrar testimonios de c
 ├── data/
 │   └── testimonios.json  # Base de datos local en formato JSON
 ├── img/                  # Avatares e imágenes del proyecto
+│   └── testimonios.jpg   # Imagen de vista previa
 ├── js/
 │   └── index.js          # Lógica de interacción, temporizador y consumo de datos
 ├── index.html            # Estructura principal de la aplicación
 └── README.md             # Documentación del proyecto
+```
 
 📝 Licencia
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
-## 📦 Instalación y Uso Local
+🚀 Instalación y Uso Local
+No requiere la instalación de dependencias ni servidores externos. Únicamente clona el repositorio u obtén los archivos y abre index.html en cualquier navegador web moderno.
 
 ## 👤 Autor
 
 Desarrollado con 💻 por **WebsByJimenez**.
-```
