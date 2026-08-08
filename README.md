@@ -8,8 +8,6 @@ Un componente web moderno, interactivo y accesible para mostrar testimonios de c
   <img src="img/testimonios.jpg" alt="Vista previa del componente de testimonios" width="400">
 </p>
 
-## 🌐 Demo En Vivo
-
 ## 🚀 Características Principales
 
 - **Carga de Datos Asíncrona:** consume los datos de los testimonios dinámicamente desde un archivo `JSON` mediante `fetch()`.
